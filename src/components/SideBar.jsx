@@ -147,7 +147,7 @@ const SideBar = ({ handleDrawerClose, open }) => {
         align="center"
         sx={{ fontSize: open ? "17px" : "0", transition: "0.25s" }}
       >
-        Mostafa
+        Samy
       </Typography>
       <Typography
         align="center"
