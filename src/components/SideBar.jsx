@@ -141,7 +141,7 @@ const SideBar = ({ handleDrawerClose, open }) => {
           border: "2px solid gray",
           transition: "0.25s",
         }}
-        src="../../public/profile-1.jpg"
+        src="public/profile-1.jpg"
       />
       <Typography
         align="center"
