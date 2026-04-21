@@ -108,7 +108,7 @@ const TopBar = ({ open, handleDrawerOpen, setMode }) => {
             <SearchIcon />
           </SearchIconWrapper>
           <StyledInputBase
-            placeholder="Search…"
+            placeholder="Search…huihid"
             inputProps={{ "aria-label": "search" }}
           />
         </Search>
